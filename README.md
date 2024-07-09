@@ -25,6 +25,7 @@ After completing the creation of your new site on GitHub, update it as needed:
 Update the following files to your own content:
 
 - `index.md` (your new home page)
+- `js.md`
 - `README.md` (information for those who access your site repo on GitHub)
 
 ## Changing the version of the theme and/or Jekyll
