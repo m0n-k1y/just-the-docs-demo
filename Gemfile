@@ -1,7 +1,7 @@
 # source 'https://rubygems.org'
 source 'https://mirrors.aliyun.com/rubygems/'
 
-gem "jekyll", "~> 4.3.3" # installed by `gem jekyll`
+gem "jekyll", "~> 4.3.4" # installed by `gem jekyll`
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
 gem "just-the-docs", "0.8.2" # pinned to the current release
